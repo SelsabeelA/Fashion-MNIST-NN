@@ -3,6 +3,9 @@ Just for the sake of increasing our knowledge of how neural networks can work wi
 
 
 Contributors:
+
 [Selsabeel A.](https://github.com/SelsabeelA/)
-[Basma Mahmoud Hashem[(https://github.com/Basma2423)
+
+[Basma Mahmoud Hashem](https://github.com/Basma2423)
+
 [Abdelrahman Mohamed Ali](https://github.com/AbdoAlshoki2)
